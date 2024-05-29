@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="internship.java.java_internship.VisitEntityTest" tests="6" skipped="2" failures="0" errors="0" timestamp="2024-05-29T08:35:22" hostname="MacBook-Air-Maciej-2.local" time="0.492">
+  <properties/>
+  <testcase name="shouldReturnVisitById()" classname="internship.java.java_internship.VisitEntityTest" time="0.481"/>
+  <testcase name="shouldReturnVisitList()" classname="internship.java.java_internship.VisitEntityTest" time="0.003"/>
+  <testcase name="shouldReturnNotFoundWhenVisitNotFound()" classname="internship.java.java_internship.VisitEntityTest" time="0.002"/>
+  <testcase name="shouldReturnVisitWhenSaved()" classname="internship.java.java_internship.VisitEntityTest" time="0.002"/>
+  <testcase name="shouldSaveVisitReturn404()" classname="internship.java.java_internship.VisitEntityTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="shouldThrowIllegalArgumentException()" classname="internship.java.java_internship.VisitEntityTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
